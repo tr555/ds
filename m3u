@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://gitee.com/Black_crow/xmlgz/raw/master/e.xml"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV1.png" group-title="电视频道",CCTV1-综合频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
