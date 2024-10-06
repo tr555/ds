@@ -40,10 +40,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV14.png" group-title="电视频道",CCTV14
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西新闻资讯.png" group-title="电视频道",陕西新闻资讯
+#EXTINF:-1 tvg-name="陕西一套" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西新闻资讯.png" group-title="电视频道",陕西新闻资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西都市青春.png" group-title="电视频道",陕西都市青春
+#EXTINF:-1 tvg-name="陕西二套" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西都市青春.png" group-title="电视频道",陕西都市青春
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV17.png" group-title="电视频道",CCTV17
