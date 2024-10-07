@@ -42,10 +42,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV14.png" group-title="电视频道",CCTV14-芊宝频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西新闻资讯.png" group-title="电视频道",陕西一套【新闻资讯】
+#EXTINF:-1 tvg-name="陕西一套" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西新闻资讯.png" group-title="电视频道",陕西一套【新闻资讯】
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西都市青春.png" group-title="电视频道",陕西二套【都市青春】
+#EXTINF:-1 tvg-name="陕西二套" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西都市青春.png" group-title="电视频道",陕西二套【都市青春】
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV17.png" group-title="电视频道",CCTV17-农业农村
@@ -81,6 +81,9 @@ http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰资讯.png" group-title="电视频道",凤凰卫视-资讯台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="电视频道",凤凰中文
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+
 #EXTINF:-1 tvg-name="中视经典" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/tv.png" group-title="宝岛频道",中视经典（信号不稳定）
 http://37.27.111.214:8080/live/47/hls.m3u8
 
@@ -93,7 +96,7 @@ http://37.27.111.214:8080/live/5/hls.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/tv.png" group-title="宝岛频道", 东森新闻（信号不稳定）
 http://37.27.111.214:8080/live/20/hls.m3u8
 
-#EXTINF:-1 tvg-name="新寰宇新闻台湾台" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/tv.png" group-title="宝岛频道", 寰宇新闻台湾（信号不稳定）
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/tv.png" group-title="宝岛频道", 寰宇新闻台湾台（信号不稳定）
 http://37.27.111.214:8080/live/63/hls.m3u8
 
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/tv.png" group-title="宝岛频道", 华视新闻（信号不稳定）
