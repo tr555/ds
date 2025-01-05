@@ -20,7 +20,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV8.png" group-title="电视频道",CCTV8-电视剧频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV9.png" group-title="电视频道",CCTV9-纪录频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
