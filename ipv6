@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV1.png" group-title="IPV6电视",CCTV1-综合频道
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV2.png" group-title="IPV6电视",CCTV2-财经频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
