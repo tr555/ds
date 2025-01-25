@@ -16,22 +16,20 @@ CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 陕西一套【新闻资讯】,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 陕西二套【都市青春】,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+陕西卫视, http://stream.snrtv.com/sxbc-star-xAE013.m3u8
+陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
+陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
+陕西银铃,http://gxlive.snrtv.com/sx3-SD.m3u8
+陕西秦腔,http://gxlive.snrtv.com/sx5-SD.m3u8
+陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
+陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
+
 西安【新闻综合】,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
 西安【都市频道】,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
 咸阳【综合】,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
 渭南【新闻综合】,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
 渭南【公共频道】,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
-CCTV13-新闻频道(备用),http://112.46.85.60:8009/hls/13/index.m3u8
 运城-1【新闻综合】,http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
 运城-2【公共频道】,http://live.0359tv.com/lsdream/t667aTY/live.m3u8
-重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
-测试频道,#genre#
-中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
-民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-寰宇新闻台湾,http://37.27.111.214:8080/live/63/hls.m3u8
-华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
-镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
