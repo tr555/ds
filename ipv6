@@ -1,103 +1,103 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV1.png" group-title="IPV6电视",CCTV1-综合频道
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV1.png" group-title="IP电视",CCTV1-综合频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV2.png" group-title="IPV6电视",CCTV2-财经频道
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV2.png" group-title="IP电视",CCTV2-财经频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV3.png" group-title="IPV6电视",CCTV3-综艺频道
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV3.png" group-title="IP电视",CCTV3-综艺频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4.png" group-title="IPV6电视",CCTV4-中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4.png" group-title="IP电视",CCTV4-中文国际
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV5.png" group-title="IPV6电视",CCTV5-体育频道
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV5.png" group-title="IP电视",CCTV5-体育频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV6.png" group-title="IPV6电视",CCTV6-电影频道
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV6.png" group-title="IP电视",CCTV6-电影频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV7.png" group-title="IPV6电视",CCTV7-国防军事
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV7.png" group-title="IP电视",CCTV7-国防军事
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV8.png" group-title="IPV6电视",CCTV8-电视剧频道
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV8.png" group-title="IP电视",CCTV8-电视剧频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV9.png" group-title="IPV6电视",CCTV9-纪录频道
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV9.png" group-title="IP电视",CCTV9-纪录频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV10.png" group-title="IPV6电视",CCTV10-科教频道
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV10.png" group-title="IP电视",CCTV10-科教频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西卫视.png" group-title="IPV6电视",陕西卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西卫视.png" group-title="IP电视",陕西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV12.png" group-title="IPV6电视",CCTV12-社会与法
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV12.png" group-title="IP电视",CCTV12-社会与法
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV13.png" group-title="IPV6电视",CCTV13-新闻频道
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV13.png" group-title="IP电视",CCTV13-新闻频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV14.png" group-title="IPV6电视",CCTV14-芊宝频道
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV14.png" group-title="IP电视",CCTV14-芊宝频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西新闻资讯.png" group-title="IPV6电视",陕西一套【新闻资讯】
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西新闻资讯.png" group-title="IP电视",陕西一套【新闻资讯】
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西都市青春.png" group-title="IPV6电视",陕西二套【都市青春】
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西都市青春.png" group-title="IP电视",陕西二套【都市青春】
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
 
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV17.png" group-title="IPV6电视",CCTV17-农业农村
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV17.png" group-title="IP电视",CCTV17-农业农村
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/西安新闻综合.png" group-title="IPV6电视",西安【新闻综合】
+#EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/西安新闻综合.png" group-title="IP电视",西安【新闻综合】
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
 
-#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/西安都市频道.png" group-title="IPV6电视",西安【都市频道】
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/西安都市频道.png" group-title="IP电视",西安【都市频道】
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
 
-#EXTINF:-1 tvg-name="咸阳-1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/咸阳综合.png" group-title="IPV6电视",咸阳【综合】
+#EXTINF:-1 tvg-name="咸阳-1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/咸阳综合.png" group-title="IP电视",咸阳【综合】
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
 
-#EXTINF:-1 tvg-name="渭南-1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/渭南1.png" group-title="IPV6电视",渭南【新闻综合】
+#EXTINF:-1 tvg-name="渭南-1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/渭南1.png" group-title="IP电视",渭南【新闻综合】
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
 
-#EXTINF:-1 tvg-name="渭南-2" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/渭南2.png" group-title="IPV6电视",渭南【公共频道】
+#EXTINF:-1 tvg-name="渭南-2" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/渭南2.png" group-title="IP电视",渭南【公共频道】
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
 
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰资讯.png" group-title="IPV6电视",凤凰卫视-资讯台
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰资讯.png" group-title="IP电视",凤凰卫视-资讯台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="IPV6电视",凤凰卫视-中文台
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="IP电视",凤凰卫视-中文台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV1.png" group-title="电视频道",CCTV1-综合频道
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV1.png" group-title="IP电视",CCTV1-综合频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV2.png" group-title="电视频道",CCTV2-财经频道
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV2.png" group-title="IP电视",CCTV2-财经频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV3.png" group-title="电视频道",CCTV3-综艺频道
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV3.png" group-title="IP电视",CCTV3-综艺频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4.png" group-title="电视频道",CCTV4-中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4.png" group-title="IP电视",CCTV4-中文国际
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV5.png" group-title="电视频道",CCTV5-体育频道
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV5.png" group-title="IP电视",CCTV5-体育频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV6.png" group-title="电视频道",CCTV6-电影频道
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV6.png" group-title="IP电视",CCTV6-电影频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV7.png" group-title="电视频道",CCTV7-国防军事
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV7.png" group-title="IP电视",CCTV7-国防军事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV8.png" group-title="电视频道",CCTV8-电视剧频道
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV8.png" group-title="IP电视",CCTV8-电视剧频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV9.png" group-title="电视频道",CCTV9-纪录频道
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV9.png" group-title="IP电视",CCTV9-纪录频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV10.png" group-title="电视频道",CCTV10-科教频道
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV10.png" group-title="IP电视",CCTV10-科教频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
