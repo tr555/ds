@@ -71,3 +71,33 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="IPV6电视",凤凰卫视-中文台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV1.png" group-title="电视频道",CCTV1-综合频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV2.png" group-title="电视频道",CCTV2-财经频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV3.png" group-title="电视频道",CCTV3-综艺频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4.png" group-title="电视频道",CCTV4-中文国际
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV5.png" group-title="电视频道",CCTV5-体育频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV6.png" group-title="电视频道",CCTV6-电影频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV7.png" group-title="电视频道",CCTV7-国防军事
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV8.png" group-title="电视频道",CCTV8-电视剧频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV9.png" group-title="电视频道",CCTV9-纪录频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV10.png" group-title="电视频道",CCTV10-科教频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
