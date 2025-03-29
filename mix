@@ -149,9 +149,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
 
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CETV1.png" group-title="IP电视",CETV1-综合教育频道
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CETV1.png" group-title="IP电视",中国教育1台
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CETV1.png" group-title="IP电视",CETV1-综合教育频道
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CETV1.png" group-title="IP电视",中国教育1台
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
