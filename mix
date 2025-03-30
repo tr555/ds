@@ -148,6 +148,21 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV17.png" group-title="IP电视",CCTV17-农业农村
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4K.png" group-title="IP电视",CCTV4K-超高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4K.png" group-title="IP电视",CCTV4K-超高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/1.m3u8
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4K.png" group-title="IP电视",北京卫视-4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227112/1.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4K.png" group-title="IP电视",北京卫视-4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227112/index.m3u8
+
+
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/欢笑剧场.png" group-title="IP电视",欢笑剧场-4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/欢笑剧场.png" group-title="IP电视",欢笑剧场-4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/1.m3u8
 
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CETV1.png" group-title="IP电视",中国教育1台
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -165,6 +180,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001789/index.m3
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="西部电影" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/西部电影.png" group-title="IP电视",西部电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="西部电影" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/西部电影.png" group-title="IP电视",西部电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227091/index.m3u8
 
 
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西新闻资讯.png" group-title="IP电视",陕西一套【新闻资讯】
@@ -173,6 +190,8 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomai
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西新闻资讯.png" group-title="IP电视",陕西一套【新闻资讯】
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西新闻资讯.png" group-title="IP电视",陕西一套【新闻资讯】
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227099/index.m3u8
 
 
 
@@ -182,7 +201,8 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomai
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西都市青春.png" group-title="IP电视",陕西二套【都市青春】
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
-
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西都市青春.png" group-title="IP电视",陕西二套【都市青春】
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227102/index.m3u8
 
 
 
@@ -215,3 +235,39 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="咸阳-1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/咸阳综合.png" group-title="IP电视",咸阳【综合】
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="长安" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/长安.png" group-title="IP电视",长安区电视台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226985/index.m3u8
+
+#EXTINF:-1 tvg-name="大荔" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/大荔.png" group-title="IP电视",大荔台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227025/index.m3u8
+
+#EXTINF:-1 tvg-name="华州" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/华州.png" group-title="IP电视",华州台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227050/index.m3u8
+
+#EXTINF:-1 tvg-name="蒲城" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/蒲城.png" group-title="IP电视",蒲城台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226976/index.m3u8
+
+#EXTINF:-1 tvg-name="富平" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/富平.png" group-title="IP电视",富平台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226968/index.m3u8
+
+#EXTINF:-1 tvg-name="韩城" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/韩城.png" group-title="IP电视",韩城台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227107/index.m3u8
+
+#EXTINF:-1 tvg-name="合阳" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/合阳.png" group-title="IP电视",合阳台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227053/index.m3u8
+
+#EXTINF:-1 tvg-name="洛川" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/洛川.png" group-title="IP电视",洛川台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226996/index.m3u8
+
+#EXTINF:-1 tvg-name="华阴" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/华阴.png" group-title="IP电视",华阴台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227028/index.m3u8
+
+#EXTINF:-1 tvg-name="临潼" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/临潼.png" group-title="IP电视",临潼台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227062/index.m3u8
+
+#EXTINF:-1 tvg-name="杨凌" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/杨凌.png" group-title="IP电视",杨凌台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227063/index.m3u8
+
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/农林卫视.png" group-title="IP电视",农林卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
