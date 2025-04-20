@@ -58,13 +58,6 @@ CCTV-17,http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virt
 西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
 
 
-陕西新闻资讯【标清】,http://gxlive.snrtv.com/sx1-SD.m3u8
-陕西都市青春【标清】,http://gxlive.snrtv.com/sx2-SD.m3u8
-陕西银龄频道【标清】,http://gxlive.snrtv.com/sx3-SD.m3u8
-陕西秦腔频道【标清】,http://gxlive.snrtv.com/sx5-SD.m3u8
-陕西体育休闲【标清】,http://gxlive.snrtv.com/sx7-SD.m3u8
-陕西西部电影【标清】,http://gxlive.snrtv.com/sx8-SD.m3u8
-
 西安【新闻综合】,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
 西安【都市频道】,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
 咸阳【综合】,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
