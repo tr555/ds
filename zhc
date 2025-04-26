@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV1.png" group-title="IP电视",CCTV1-综合频道
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV1.png" group-title="IP电视",CCTV1-综合频道
