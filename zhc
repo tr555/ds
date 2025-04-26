@@ -64,16 +64,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
 #EXTINF:-1 tvg-name="渭南公共" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/渭南2.png" group-title="电视频道",渭南公共
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
 
-
-#EXTINF:-1 tvg-name="运城-1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/运城1.png" group-title="电视频道",运城-1
-http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
-
-#EXTINF:-1 tvg-name="运城-2" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/运城2.png" group-title="电视频道",运城-2
-http://live.0359tv.com/lsdream/t667aTY/live.m3u8
-
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/重温经典.png" group-title="电视频道",重温经典【中国广电】
-http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
-
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰资讯.png" group-title="电视频道",凤凰资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
