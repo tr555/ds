@@ -236,6 +236,18 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-name="咸阳-1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/咸阳综合.png" group-title="IP电视",咸阳【综合】
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#EXTINF:-1 tvg-name="钟楼" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/钟楼.png" group-title="IP电视",钟楼实况
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+
+#EXTINF:-1 tvg-name="大雁塔" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/大雁塔.png" group-title="IP电视",大雁塔实况
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+
+#EXTINF:-1 tvg-name="九宫格1" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/九宫格1.png" group-title="IP电视",九宫格1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
+
+#EXTINF:-1 tvg-name="九宫格2" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/九宫格2.png" group-title="IP电视",九宫格2
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+
 #EXTINF:-1 tvg-name="长安" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/长安.png" group-title="IP电视",长安区电视台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226985/index.m3u8
 
