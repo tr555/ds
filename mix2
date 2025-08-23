@@ -134,6 +134,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="IP电视",凤凰卫视-中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="IP电视",凤凰卫视-中文台
 http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="IP电视",凤凰卫视-中文台
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
@@ -141,12 +143,16 @@ http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰资讯.png" group-title="IP电视",凤凰卫视-资讯台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰资讯.png" group-title="IP电视",凤凰卫视-资讯台
 http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰资讯.png" group-title="IP电视",凤凰卫视-资讯台
 http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰资讯.png" group-title="IP电视",凤凰卫视-资讯台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰香港.png" group-title="IP电视",凤凰卫视-香港台
+http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰香港.png" group-title="IP电视",凤凰卫视-香港台
 http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰香港.png" group-title="IP电视",凤凰卫视-香港台
@@ -212,7 +218,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/陕西都市青春.png" group-title="IP电视",陕西二套【都市青春】
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227102/index.m3u8
 
-
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中天新聞.png" group-title="IP电视",中天新聞
+http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中天新聞.png" group-title="IP电视",中天新聞
 http://t.061899.xyz/tl/js/js.php?id=ztxwt
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中天新聞.png" group-title="IP电视",中天新聞
@@ -221,17 +228,34 @@ https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 http://t.061899.xyz/tl/js/js.php?id=ztxw
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中天新聞.png" group-title="IP电视",中天新聞
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中天新聞.png" group-title="IP电视",中天新聞
+http://iptv.4666888.xyz/iptv.php?id=20173
 
 
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/寰宇新聞.png" group-title="IP电视",寰宇新聞
-http://t.061899.xyz/tl/js/js.php?id=hyxwt
+http://iptv.4666888.xyz/iptv.php?id=20176
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/寰宇新聞.png" group-title="IP电视",寰宇新聞
 http://t.061899.xyz/tl/js/js.php?id=hyxwt1
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/寰宇新聞.png" group-title="IP电视",寰宇新聞
 http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
 
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中視新聞.png" group-title="IP电视",中視新聞
+http://bxtv.3a.ink/api.php?id=zsxw
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中視新聞.png" group-title="IP电视",中視新聞
+http://t.061899.xyz/tl/js/js.php?id=zsxw
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中視新聞.png" group-title="IP电视",中視新聞
+http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="东森新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/东森新聞.png" group-title="IP电视",东森新聞
+http://iptv.4666888.xyz/iptv.php?id=20174
 #EXTINF:-1 tvg-name="东森新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/东森新聞.png" group-title="IP电视",东森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+
+
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="http://bxtv.3a.ink/logo/民视新闻.png",民视新聞台
+http://bxtv.3a.ink/api.php?id=msxw
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="http://bxtv.3a.ink/logo/民视新闻.png",民视新聞台
+https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/西安新闻综合.png" group-title="IP电视",西安【新闻综合】
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
