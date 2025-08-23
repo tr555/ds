@@ -252,9 +252,9 @@ http://iptv.4666888.xyz/iptv.php?id=20174
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 
-#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="http://bxtv.3a.ink/logo/民视新闻.png",民视新聞台
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/民視新聞台.png" group-title="IP电视",民視新聞台
 http://bxtv.3a.ink/api.php?id=msxw
-#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="http://bxtv.3a.ink/logo/民视新闻.png",民视新聞台
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/民視新聞台.png" group-title="IP电视",民視新聞台
 https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/西安新闻综合.png" group-title="IP电视",西安【新闻综合】
