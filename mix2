@@ -134,6 +134,11 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV17.png" group-title="IP电视",CCTV17-农业农村
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4K.png" group-title="IP电视",CCTV4K-超高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4K.png" group-title="IP电视",CCTV4K-超高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/1.m3u8
+
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="IP电视",凤凰卫视-中文台
 http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="IP电视",凤凰卫视-中文台
@@ -202,13 +207,6 @@ http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 http://bxtv.3a.ink/api.php?id=msxw
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/民視新聞台.png" group-title="IP电视",民視新聞台
 https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-
-
-
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4K.png" group-title="IP电视",CCTV4K-超高清
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4K.png" group-title="IP电视",CCTV4K-超高清
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/1.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/北京卫视.png" group-title="IP电视",北京卫视-4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227112/1.m3u8
