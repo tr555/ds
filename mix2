@@ -181,16 +181,19 @@ http://iptv.4666888.xyz/iptv.php?id=20176
 http://t.061899.xyz/tl/js/js.php?id=hyxwt1
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/寰宇新聞.png" group-title="IP电视",寰宇新聞
 http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/寰宇新聞.png" group-title="IP电视",寰宇新聞
+http://bxtv.3a.ink/api.php?id=hyxw
 
 #EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中視新聞.png" group-title="IP电视",中視新聞
 http://bxtv.3a.ink/api.php?id=zsxw
 #EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中視新聞.png" group-title="IP电视",中視新聞
 http://t.061899.xyz/tl/js/js.php?id=zsxw
-#EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/中視新聞.png" group-title="IP电视",中視新聞
-http://s1.an94tv.cfd/zhongshi/CH-1/AKTV.m3u8
+
 
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/东森新聞.png" group-title="IP电视",东森新聞
 http://iptv.4666888.xyz/iptv.php?id=20174
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/东森新聞.png" group-title="IP电视",东森新聞
+http://bxtv.3a.ink/api.php?id=dsxw
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/东森新聞.png" group-title="IP电视",东森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
