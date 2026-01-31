@@ -103,6 +103,12 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV4K.png" group-title="IP电视",CCTV4K-超高清
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/1.m3u8
 
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/兵器科技.png" group-title="IP电视",兵器科技
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
+
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/第一剧场.png" group-title="IP电视",第一剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
+
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="IP电视",凤凰卫视-中文台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/凤凰中文.png" group-title="IP电视",凤凰卫视-中文台
@@ -192,3 +198,12 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226976/index.m3u8
 
 #EXTINF:-1 tvg-name="富平" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/富平.png" group-title="IP电视",富平台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226968/index.m3u8
+
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CHC家庭影院.png" group-title="IP电视",家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CHC影迷电影.png" group-title="IP电视",影迷电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CHC动作电影.png" group-title="IP电视",动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
