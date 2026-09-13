@@ -275,3 +275,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226976/index.m3u8
 #EXTINF:-1 tvg-name="富平" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/富平.png" group-title="IP电视",富平台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226968/index.m3u8
 
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CGTN.png" group-title="IP电视",CGTN-NEWS
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+
