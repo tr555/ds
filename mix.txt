@@ -75,8 +75,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV13.png" group-title="IP电视",CCTV13-新闻频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV13.png" group-title="IP电视",CCTV13-新闻频道
-http://t.061899.xyz/tl/tl.php?id=cctv13
+
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CCTV14.png" group-title="IP电视",CCTV14-芊宝频道
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -132,19 +131,13 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/东方卫视.png" group-title="IP电视",东方卫视
-http://go.bkpcp.top/mg/dfws
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/东方卫视.png" group-title="IP电视",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 
 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/浙江卫视.png" group-title="IP电视",浙江卫视
-http://go.bkpcp.top/mg/zjws
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/浙江卫视.png" group-title="IP电视",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 
 
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/湖南卫视.png" group-title="IP电视",湖南卫视
-http://go.bkpcp.top/mg/hunws
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/湖南卫视.png" group-title="IP电视",湖南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 
@@ -208,5 +201,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CHC动作电影.png" group-title="IP电视",动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CGTN.png" group-title="IP电视",CGTN-NEWS
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CGTN.png" group-title="IP电视",CGTN-NEWS
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/harry-code/tb/raw/master/AUTO/CGTN.png" group-title="IP电视",CGTN
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
